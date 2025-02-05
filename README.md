@@ -23,7 +23,7 @@ python Math-156-HW3-P4.py
 ## File Structure
 - `Math-156-HW3-P4.py`: Main script implementing logistic regression with mini-batch SGD.
 - `README.md`: This file, providing an overview of the project.
-- `report.pdf`: Detailed explanation of the methodology, model training, and results.
+- `Math-156-HW3-P4-Report.pdf`: Detailed explanation of the methodology, model training, and results.
 
 ## License
 This project is open-source and can be used for educational purposes.
