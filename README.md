@@ -17,11 +17,11 @@ pip install numpy scikit-learn
 ## Usage
 Run the script to train the logistic regression model and evaluate its performance:
 ```
-python logistic_regression_sgd.py
+python Math-156-HW3-P4.py
 ```
 
 ## File Structure
-- `logistic_regression_sgd.py`: Main script implementing logistic regression with mini-batch SGD.
+- `Math-156-HW3-P4.py`: Main script implementing logistic regression with mini-batch SGD.
 - `README.md`: This file, providing an overview of the project.
 - `report.pdf`: Detailed explanation of the methodology, model training, and results.
 
