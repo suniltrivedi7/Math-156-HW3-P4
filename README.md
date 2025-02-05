@@ -1,7 +1,7 @@
 # README: Logistic Regression with Mini-Batch SGD
 
 ## Project Overview
-This project implements a binary logistic regression model using mini-batch stochastic gradient descent (SGD) for classification on the Wisconsin Breast Cancer dataset.
+This project implements a binary logistic regression model using mini-batch stochastic gradient descent (SGD) for classification on the Wisconsin Breast Cancer dataset. The dataset is preprocessed, including feature normalization, and the model is evaluated using accuracy, precision, recall, and F1-score.
 
 ## Requirements
 - Python 3.x
